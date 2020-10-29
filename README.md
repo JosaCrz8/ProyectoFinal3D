@@ -30,3 +30,7 @@
 # Resultado de la Grafica por la pantalla
 
 ![7](https://user-images.githubusercontent.com/71291276/97609867-c645e880-19d9-11eb-8f47-103d0a4c26c2.jpg)
+
+# Resultado en el siguiente GIF
+
+![VID_20201029_105409(0)(0)](https://user-images.githubusercontent.com/71291276/97614278-5dfa0580-19df-11eb-9ac9-64a44caeb476.gif)
